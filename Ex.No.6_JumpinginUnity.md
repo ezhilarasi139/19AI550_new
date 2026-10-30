@@ -47,7 +47,8 @@ public class PlayerJump : MonoBehaviour{
 ```
 ### Output:
 
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/854612b5-c46c-4535-9031-6ce0af9ea217" />
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/d3a7b8ee-6eb4-428e-a8e9-435d2d2a9e74" />
+
 
 
 
