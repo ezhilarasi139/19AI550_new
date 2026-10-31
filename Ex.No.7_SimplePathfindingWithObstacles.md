@@ -88,6 +88,8 @@ transform.position = startPos + new Vector3(movement, 0, 0);
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/fbe9f6af-8bb4-4aab-a50c-65b0bd1c86d7" />
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1428b56e-2483-497a-bf77-27816aa85e0f" />
+
 
 
 
